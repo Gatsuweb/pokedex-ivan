@@ -14,7 +14,7 @@ function App() {
       name: "Mew",
     },
     {
-      name: "Capapuce",
+      name: "Carapuce",
           imgSrc:
           "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
       },
