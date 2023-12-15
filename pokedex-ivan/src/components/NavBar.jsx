@@ -1,6 +1,5 @@
-import { useState } from "react";
 
-function NavBar ({ pokemonIndex, handlePokemonCLick, pokemonList }) {
+function NavBar ({handlePokemonCLick, pokemonList }) {
 
 return (
     <>
